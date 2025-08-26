@@ -6,7 +6,7 @@ Community Hope Initiative
 Name & surname: Atlegang Segoe
 Student Number: ST10493770
 
-Overview 
+#Overview 
 A well designed website for a charitable organisation that helps disadvantaged children in Johannesburg. 
 
 Key Features 

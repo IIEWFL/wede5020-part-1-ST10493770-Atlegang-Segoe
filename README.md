@@ -15,13 +15,6 @@ Event management
 Responsive design 
 Volunteer registration system 
 
-Sitemap 
-```mermaid
-graph TD
-A[Home] --> B[About]
-A --> C[Programs]
-A --> D[Volunteer]
-A --> E[Contact]
 
 
 Reference

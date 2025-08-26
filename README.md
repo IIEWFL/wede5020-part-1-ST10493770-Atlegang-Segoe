@@ -22,3 +22,15 @@ A[Home] --> B[About]
 A --> C[Programs]
 A --> D[Volunteer]
 A --> E[Contact]
+
+
+Reference
+//Code attribution 
+//This method was taken from W3C
+//Link https://html.spec.whatwg.org
+//Author
+
+//Code attribution
+//This method was taken from MDN Web Docs
+//Link https://developer.mozilla.org//en-US/docs/Web/HTML
+//Author 

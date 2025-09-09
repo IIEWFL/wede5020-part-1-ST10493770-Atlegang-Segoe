@@ -34,9 +34,11 @@ Reference
 
 
 Sitemap
-```mermaid
-graph TD
-A[Home] --> B[About]
-A --> C[Programs]
-A --> D[Volunteer]
-A --> E[Contract]
+Home[Home Screen]
+    Add[Add/Manage Screen]
+    Filter[Guest Filter Screen]
+
+    Home -- 'Add/Edit Menu' Button --> Add
+    Home -- 'View as Guest' Button --> Filter
+    Add -- Save & Go Back --> Home
+    Filter -- Back Button --> Home
